@@ -68,3 +68,15 @@ pip install sympy
    python Diffie-Hellman.py
    ```
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributions
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
+
+## Author
+[**Talha Rauf**](https://github.com/talharauf15)
+
+---
+
+**Disclaimer**: This project is for educational purposes only. It should not be used for production-level applications.
