@@ -21,3 +21,19 @@ The Diffie-Hellman algorithm allows two parties to securely generate a shared se
 - Private and public key calculation.
 - Shared secret derivation.
 
+Usage:
+```bash
+python Diffie-Hellman.py
+```
+
+### 2. ElGamal Encryption and Decryption
+The ElGamal algorithm provides public-key encryption based on discrete logarithms. The implementation includes:
+- Key generation (public and private keys).
+- Message encryption with padding.
+- Decryption to recover the original message.
+
+Usage:
+```bash
+python ElGamal.py
+```
+
