@@ -37,3 +37,34 @@ Usage:
 python ElGamal.py
 ```
 
+### 3. RSA Algorithm
+The RSA algorithm facilitates secure data transmission using asymmetric keys. The implementation includes:
+- Key generation (public and private key pairs).
+- Message encryption and decryption.
+
+Usage:
+```bash
+python RSA.py
+```
+
+## Prerequisites
+- Python 3.7 or later
+- `sympy` library
+
+To install dependencies, run:
+```bash
+pip install sympy
+```
+
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/talharauf15/Cryptography-Key-Exchange-Algorithms.git
+   cd Cryptography-Key-Exchange-Algorithms
+   ```
+
+2. Execute the desired script (e.g., for Diffie-Hellman):
+   ```bash
+   python Diffie-Hellman.py
+   ```
+
